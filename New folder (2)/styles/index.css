@@ -1,0 +1,169 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+main{
+	background-color: lime;
+	width: 60%;
+	min-height: 300px;
+	margin: 0 auto;
+	padding-top: 50px;
+	height: 750px;
+	/*position: relative;*/
+
+}
+
+main .date{
+	float: right;
+	margin-right: 100px;
+	height: 15px;
+
+}
+
+main .boss{
+	width: 100%;
+	background-color: white;
+	height: 110px;
+	margin-top: 0px;
+	padding-top: 25px;
+	
+
+}
+main .nav{
+	width: 100%;
+	background-color: yellow;
+	margin-top: 0px;
+	height: 50px;
+	
+}
+
+main .side{
+	width: 17%;
+	height: 750px;
+	background-color: white;
+	margin-left: 100px;
+	float: left;
+	padding-top: 20px;
+
+}
+
+
+main .maincorse{
+	width: 68%;
+	height: 700px;
+	background-color: purple;
+	margin: 0 auto;
+	margin-right: 100px;
+
+}
+
+main .righthandman{
+	float: right;
+	width: 38%;
+	background-color: black;
+	height: 750px;
+	
+}
+main .side .lang{
+	padding-top: 5px;
+	background-color: #f4f7f6;
+	height: 90px;
+	width: 100%;
+	border-style: solid;
+
+
+}
+main .side .imagi{
+	background-color: yellow;
+	width: 100%;
+	height: 50px;
+	padding-top: 10px;
+
+}
+
+main .side .etc{
+	background-color: white;
+	width: 100%;
+	height: 400px;
+	border-style: solid; 
+	padding-top: 25px;
+	padding-left: 2px;
+
+}
+main .side .etc .hed{
+	height: 20px;
+	float: left;
+	margin-top: -5px;
+
+	}
+
+	main .side .etc .seconded{
+
+		float: left;
+		
+	}
+
+
+main .side .etc h4{
+	float: right;
+}
+
+
+main .righthandman .supp{
+	width: 100%;
+	height: 300px;
+	background-color: gray;
+	float: right;
+}
+
+
+main .maincorse .mid{
+	width: 450px;
+	height: 350px;
+	background-color: white;
+	float: left;
+	margin-top: 18px;
+	margin-left: 2px;
+}
+
+main .maincorse .mid .innards{
+	width: 100%;
+	background-color: black;
+	height: 80px;
+	/*margin-top: 255px;*/
+}
+
+main .maincorse .mid .prenk{
+	width: 100%;
+	background-color: yellow;
+	height: 400px;
+	margin-top: 10px;
+}
+
+
+main .maincorse .mid .prenk .ace{
+
+	width: 44%;
+	height: 350px;
+	background-color: gray;
+	float: left;
+	margin-left: 20px;
+	}
+
+main .maincorse .mid .prenk .spade{
+	width: 44%;
+	height: 200px;
+	background-color: pink;
+	float: right;
+	margin-right: 20px;
+}
+
+
+
+
+
+

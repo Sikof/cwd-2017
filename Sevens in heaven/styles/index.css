@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+.one{
+	width: 100%;
+}
+
+.two{
+	background-color: black;
+	height: 65px;
+}
+.Ingrish{
+	float: left;
+	width: 75%;
+	padding: 20px;
+	height: 48px;
+	color: white;
+	margin: 4px 16px 0px 16px;
+	text-align: center;
+
+}
