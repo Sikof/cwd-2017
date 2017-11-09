@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+body{
+	background-color: #DAD0CD;
+}
+.mother{
+	width: 45%;
+	height: 400px;
+	background-color: black;
+}
+
+.webox{
+	width: 55%;
+	height: 200px;
+	background-color: #f4f7f6;
+}
+
+
+.webox .image{
+	width: 100%;
+	background-image: url(https://media.wired.com/photos/59f8d458c5f6b7519dbf2fc3/master/w_582,c_limit/RussiaTechHearing-TA-868706000.jpg); 
+	background-position: center;
+	background-position: center;
+	background-size: cover;
+	height: 200px;
+}
+
+
+.titles{
+	color: white;
+	transition: -20px;
+
+}

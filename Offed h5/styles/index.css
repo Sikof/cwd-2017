@@ -7,13 +7,20 @@
 }
 
 main{
-	background-color: lime;
-	width: 60%;
+	background-color: white;
+	width: 63%;
 	min-height: 300px;
 	margin: 0 auto;
 	padding-top: 50px;
 	height: 750px;
-	/*position: relative;*/
+<<<<<<< HEAD:Offed h5/styles/index.css
+
+	color: black;
+	overflow: hidden;
+
+=======
+	
+>>>>>>> a8a2cc97e8d59b6f87a5ea037284a82a8189cef8:New folder (2)/styles/index.css
 
 }
 
@@ -35,11 +42,25 @@ main .boss{
 }
 main .nav{
 	width: 100%;
-	background-color: yellow;
+	background-color: white;
 	margin-top: 0px;
 	height: 50px;
+	float: left;
+	color: black;
+	font-family: sans-serif;
+	list-style: none;
+	text-align: center;
+	
+
+
 	
 }
+main .nav li{
+	float: left;
+	font-size: 30px;
+	
+	
+	}	
 
 main .side{
 	width: 17%;
@@ -55,7 +76,7 @@ main .side{
 main .maincorse{
 	width: 68%;
 	height: 700px;
-	background-color: purple;
+	background-color: white;
 	margin: 0 auto;
 	margin-right: 100px;
 
@@ -64,10 +85,42 @@ main .maincorse{
 main .righthandman{
 	float: right;
 	width: 38%;
-	background-color: black;
+	/*background-color: black;*/
 	height: 750px;
 	
 }
+main .righthandman .sexualharrasment{
+	background-color: white;
+	height: 500px;
+
+
+}
+main .righthandman .sexualharrasment .binded{
+	background-color: black;
+	width: 500px;
+	/*margin-top: 30px;*/
+	float: left;
+	}
+main .righthandman .sexualharrasment .lefto{
+	float: left;
+	width: 90px;
+	background-color: white;
+	color: black;
+	font: sans-serif;
+	margin-left: 7px;
+	height: 90px;
+
+
+}
+main .righthandman .sexualharrasment .righto{
+	float: right;
+	width: 160px;
+	height: 90px;
+	/*background-color: black;*/
+	
+}
+
+
 main .side .lang{
 	padding-top: 5px;
 	background-color: #f4f7f6;
@@ -78,7 +131,7 @@ main .side .lang{
 
 }
 main .side .imagi{
-	background-color: yellow;
+	/*background-color: yellow;*/
 	width: 100%;
 	height: 50px;
 	padding-top: 10px;
@@ -115,31 +168,37 @@ main .side .etc h4{
 
 main .righthandman .supp{
 	width: 100%;
-	height: 300px;
-	background-color: gray;
+	padding-left: 10px;
+	background-color: white;
 	float: right;
+	font: sans-serif;
+	color: black;
+	margin-top: 20px;
 }
 
 
 main .maincorse .mid{
-	width: 450px;
+	width: 466px;
 	height: 350px;
-	background-color: white;
+	background-color: black;
 	float: left;
 	margin-top: 18px;
 	margin-left: 2px;
+	color: white;
+
 }
 
 main .maincorse .mid .innards{
 	width: 100%;
-	background-color: black;
-	height: 80px;
-	/*margin-top: 255px;*/
+	background-color: white;
+	height: 60px;
+	color: black;
+	margin-top: 5px;
 }
 
 main .maincorse .mid .prenk{
 	width: 100%;
-	background-color: yellow;
+	background-color: white;
 	height: 400px;
 	margin-top: 10px;
 }
@@ -148,18 +207,22 @@ main .maincorse .mid .prenk{
 main .maincorse .mid .prenk .ace{
 
 	width: 44%;
-	height: 350px;
-	background-color: gray;
+	height: 410px;
+	background-color: white;
 	float: left;
 	margin-left: 20px;
+	color: black;
+	font: sans-serif;
 	}
 
 main .maincorse .mid .prenk .spade{
 	width: 44%;
-	height: 200px;
-	background-color: pink;
+	height: 330px;
+	background-color: white;
 	float: right;
 	margin-right: 20px;
+	color: black;
+	font: sans-serif;
 }
 
 
